@@ -1,1 +1,3 @@
-console.log(document.title , document.URL , document.doctype);
+ let changethis = document.getElementById('2');
+
+changethis.innerText = "yo";
